@@ -9,12 +9,12 @@ p { font-size: 30px;
     color: black;
     text-align: left; }
 .link { color: #0070c0; }
-.header { height: 50px;
+.header { height: 75px;
           width: 100%;
           box-shadow: 0 0 10px #dddddd;
           background-color: #0070c0; }
 .header-left { float: left; }
-.header-left a { line-height: 50px;
+.header-left a { line-height: 75px;
                  color: white;
                  text-decoration: none;
                  font-size: 50px; }
